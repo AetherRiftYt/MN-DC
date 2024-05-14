@@ -1,2 +1,2 @@
-const discordInviteLink = 'https://discord.gg/H6sFAzRDd6';
+const discordInviteLink = 'https://discord.gg/YesB6DdS4r';
 window.location.href = discordInviteLink;
